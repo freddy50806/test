@@ -35,7 +35,7 @@ Temporary Items
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
-.debug
+debug
 
 
 # End of https://www.gitignore.io/api/macos,visualstudiocode
